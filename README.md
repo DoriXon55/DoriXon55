@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @DoriXon55
-- 👀 I’m interested in rowing, programming and traveling.
+- 🚣‍♂️ I LOVE ROWING
+- 👀 I’m interested in programming and traveling.
 - 🌱 I’m currently learning the basics of everything 
 - 📫 How to reach me - dorianzasada@gmail.com
 
