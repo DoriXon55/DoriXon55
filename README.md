@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, embedded systems and making games.<br>💬 Ask me about anything you want<br>⚡I am electronics technician 
+🌱 I’m currently learning Java and embedded systems.<br>💬 Ask me about anything you want<br>⚡I am electronics technician 
 
 # 📊 GitHub Stats:
 <p align = "center">
